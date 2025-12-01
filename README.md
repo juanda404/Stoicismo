@@ -22,7 +22,7 @@ The page features educational content about the historical origin of Memento Mor
 
 ## 🚀 Live Demo
 
-You can see the page in action here: [View Demo](#) *(Add your URL when deployed)*
+You can see the page in action here: [View Demo](#) *https://stoicismo.netlify.app/*
 
 ## 🛠️ Technologies Used
 
